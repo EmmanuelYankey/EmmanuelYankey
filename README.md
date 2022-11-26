@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate on a startup project
-- 📫 How to reach me [helloyankey@gmail.com](helloyankey@gmail.com)
+- 📫 How to reach me [hiyankey@gmail.com](helloyankey@gmail.com)
 
 <!---
 EmmanuelYankey/EmmanuelYankey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
